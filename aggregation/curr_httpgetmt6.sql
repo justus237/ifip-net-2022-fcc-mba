@@ -1,10 +1,10 @@
 .mode csv
 
-.import "|tail -n +2 ../raw_data/201809/curr_httpgetmt6.csv" curr_httpgetmt6
-.import "|tail -n +2 ../raw_data/201810/curr_httpgetmt6.csv" curr_httpgetmt6
-.import "|tail -n +2 ../raw_data/201812/curr_httpgetmt6.csv" curr_httpgetmt6
-.import "|tail -n +2 ../raw_data/201901/curr_httpgetmt6.csv" curr_httpgetmt6
-.import "|tail -n +2 ../raw_data/201902/curr_httpgetmt6.csv" curr_httpgetmt6
+.import "|tail -n +2 ../raw-data/201809/curr_httpgetmt6.csv" curr_httpgetmt6
+.import "|tail -n +2 ../raw-data/201810/curr_httpgetmt6.csv" curr_httpgetmt6
+.import "|tail -n +2 ../raw-data/201812/curr_httpgetmt6.csv" curr_httpgetmt6
+.import "|tail -n +2 ../raw-data/201901/curr_httpgetmt6.csv" curr_httpgetmt6
+.import "|tail -n +2 ../raw-data/201902/curr_httpgetmt6.csv" curr_httpgetmt6
 .import "|tail -n +2 ../raw-data/201903/curr_httpgetmt6.csv" curr_httpgetmt6
 .import "|tail -n +2 ../raw-data/201904/curr_httpgetmt6.csv" curr_httpgetmt6
 .import "|tail -n +2 ../raw-data/201905/curr_httpgetmt6.csv" curr_httpgetmt6
