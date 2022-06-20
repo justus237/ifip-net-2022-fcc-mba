@@ -1,6 +1,8 @@
 # An Eight Years Perspective on the Internet Broadband Infrastructure in the USA
 ## Justus Fries, Trinh Viet Doan, Rohit Gupta, Vaibhav Bajpai
 ## IFIP Networking Conference 2022
+# Metrics covered by the scripts
+Download (HTTP GET MT (6)), Latency (UDP Latency (6)), Latency under (downstream) load (Download Ping)
 # Requirements
 ```sqlite3``` and ```python3``` with ```pandas, seaborn``` and ```basemap```
 # Workflow
